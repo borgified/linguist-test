@@ -1,1 +1,2 @@
-this should be detected as perl based on extension
+#!/usr/bin/perl
+print "this should be detected as perl based on extension";
